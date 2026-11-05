@@ -56,17 +56,19 @@ So this is basically the project task from `NETWORKWALKS-INTERNSHIP-BATCH-B084` 
 ## 🪜 Step-by-Step Practical Build
 
 ### Phase 1: Install 7-zip & Extract the kali linux 
-<img width="1038" height="94" alt="Screenshot 2026-10-28 104959" src="https://github.com/user-attachments/assets/874b1e28-bc6e-4884-9dc7-1603871f91f8" />
+
+<img width="1038" height="94" alt="1" src="https://github.com/user-attachments/assets/34a7d779-1cd8-4417-8fef-00cd8345c91b" />
 
 ---
 
 ### Phase 2: Moving kali linux files ISO,VDI into VM Box
-<img width="1062" height="203" alt="Screenshot 2026-10-28 105106" src="https://github.com/user-attachments/assets/c6ce3940-a8c0-48ac-98ae-707e254b0233" />
+
+<img width="1062" height="203" alt="2" src="https://github.com/user-attachments/assets/3bda4675-1fa2-4b79-95ff-1c1d6ee8966c" />
 
 
 Select the new button then import the VM file. VDI,ISO
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/120ff560-6ea0-4ae5-8e2d-2144dc18e36b" />
+<img width="959" height="539" alt="3" src="https://github.com/user-attachments/assets/4e7c4f2e-7b4c-444b-b78e-9e0cfa5a9cce" />
 
 
 visit to the file location and select it it will imported automatically just named it and click Finish.
@@ -76,19 +78,18 @@ visit to the file location and select it it will imported automatically just nam
 ### Phase 3: Configuring the Network
 Click that tabs.
 
-<img width="959" height="302" alt="image" src="https://github.com/user-attachments/assets/ab9a03b7-d682-4a91-8c8f-2b6f8a02405c" />
+<img width="959" height="302" alt="4" src="https://github.com/user-attachments/assets/bbd058bf-9851-4265-be05-781ee3eba6cc" />
 
 
 Then navigate to this and use the same settings and click apply.
 
-<img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/e14c0b44-8e62-414e-8c12-8523010d4fdf" />
+<img width="960" height="539" alt="5" src="https://github.com/user-attachments/assets/9465515c-abfd-42b4-88ba-83a6f24648ac" />
 
 
 ### Phase 4: Working with kali linux 
 
 Start you kali linux machine and Move to there.
 
-<img width="959" height="274" alt="Screenshot 2026-10-28 121948" src="https://github.com/user-attachments/assets/7c1c6409-e5d1-4e2e-8508-3df72b52022e" />
 
 
 Use the same settings
@@ -98,11 +99,11 @@ Use the same settings
 ### Phase 5: Checking the ip and network connection.
 Check that the connection is now working or not.
 
-<img width="1220" height="441" alt="Screenshot 2026-10-28 124145" src="https://github.com/user-attachments/assets/b963fe61-af3c-40da-a94a-22d7fd5a424e" />
+<img width="1220" height="441" alt="6" src="https://github.com/user-attachments/assets/43c1c969-f40f-4528-88ec-5c2555a30ed5" />
 
 looking for IP if its changed or not.
 
-<img width="299" height="100" alt="Screenshot 2026-10-28 124102" src="https://github.com/user-attachments/assets/fb3bf474-7040-4c75-9d64-91e0d8d72641" />
+<img width="299" height="100" alt="7" src="https://github.com/user-attachments/assets/d01953cb-b044-464f-a6bf-d38d873dcec2" />
 
 And yeah everything worked smoothly so now we are able to move forward and configure the same ip connection with other OS systems.
 
